@@ -1,0 +1,19 @@
+{
+    "name": "aoc-2021",
+    "version": "1.0.0",
+    "description": "Advent of Code 2021",
+    "main": "index.js",
+    "author": "",
+    "scripts": {
+      "build": "tsc",
+      "start": "ts-node-dev src/index.ts"
+    },
+    "dependencies": {
+        "typescript": "^4.4.3"
+    },
+    "devDependencies": {
+        "@types/node": "^16.11.6",
+        "ts-node-dev": "^1.1.8"
+    }
+}
+  
